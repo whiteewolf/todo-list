@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "view": "node src/view",
+    "add": "node src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteewolf/todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteewolf/todo-list/issues"
+  },
+  "homepage": "https://github.com/whiteewolf/todo-list#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
